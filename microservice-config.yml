@@ -6,7 +6,7 @@ spring:
 spring:
      profiles: dev
      application:
-       name: microservice-config-dev01
+       name: microservice-config-dev02
 
 ---
 spring:
